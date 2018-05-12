@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6704
     wikipedia: http://en.wikipedia.org/wiki/Temple_Bailey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23246#Mistress-Anne
 gutenberg_issued: '2007-10-30'
 gutenberg_type: Text
 identifiers:
